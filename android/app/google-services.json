@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "260980545682",
+    "project_id": "flutterblocfood",
+    "storage_bucket": "flutterblocfood.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260980545682:android:588ecc16882fbd4c422e4b",
+        "android_client_info": {
+          "package_name": "com.example.flutterblocfoodproductapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260980545682-9sumrtmuam88vq2nb1suv4psoakr4f37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZI1vDScMG9315N2BANhnO6OIjhJQzmmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260980545682-9sumrtmuam88vq2nb1suv4psoakr4f37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
